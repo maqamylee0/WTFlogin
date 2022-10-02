@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WTFlogin</string>
+    <string name="sign_up">Sign up</string>
+    <string name="tostartworking">to start working</string>
+    <string name="your_phone_number">Your phone Number</string>
+    <string name="back_to_sign_in">Back to sign in</string>
+</resources>
